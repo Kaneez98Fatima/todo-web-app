@@ -9,6 +9,8 @@
 ## Built With
 
 - React js
+- Javascript
+- HTML
 
 ## Live Preview 
 
